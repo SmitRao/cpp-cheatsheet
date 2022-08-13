@@ -1,4 +1,4 @@
-'''
+```
 Ideas: 
     read-only -> pass by reference
     premature optimization is bad
@@ -183,4 +183,4 @@ Check if character is blank (function )
 
 For set, multiset, map, multimap the time complexity for insertion, deletion 
 and retrieving information is O(logn) as they follow the balance binary tree
-'''
+```
